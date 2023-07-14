@@ -8,7 +8,7 @@ complete implementation of Image segmentation using tensorflow
     - numpy
 
 # data:
-    ![data](data.png)
+    ![data](https://github.com/Prajesh7/Tensorflow_Image_segmentation/blob/main/data.png)
 
 # annotations:
     annot.png
