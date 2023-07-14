@@ -11,8 +11,8 @@ complete implementation of Image segmentation using tensorflow
 ![data](https://github.com/Prajesh7/Tensorflow_Image_segmentation/blob/main/data.png)
 
 # annotations:
-    annot.png
+![annotation](https://github.com/Prajesh7/Tensorflow_Image_segmentation/blob/main/annot.png)
 
 # current results:
-    results.png
+![results](https://github.com/Prajesh7/Tensorflow_Image_segmentation/blob/main/results.png)
 
