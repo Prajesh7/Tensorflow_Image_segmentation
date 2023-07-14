@@ -7,11 +7,8 @@ complete implementation of Image segmentation using tensorflow
     - opencv
     - numpy
 
-# saved_weights:
-    - ~/saved_weights/seg_model_weights.h5
-
 # data:
-    ![image](C:/Users/Natwar/Desktop/Tensorflow_Image_segmentation/data.png)
+    C:/Users/Natwar/Desktop/Tensorflow_Image_segmentation/data.png
 
 # annotations:
     ![image](C:/Users/Natwar/Desktop/Tensorflow_Image_segmentation/annot.png)
